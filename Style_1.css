@@ -1,0 +1,108 @@
+
+body{
+    font-family: Arial,Helvetica,sans- serif;
+}
+
+.global_1{
+    width: 100%;
+    float: left;
+}
+
+
+.calculator_tab{
+    padding: 15px 15px 15px 50px;
+    margin: 0;
+    float: left;
+    min-width: 100px;
+    border: 0 solid #fff;
+    font-size: 17px;
+    color: #fff;
+    font-weight: normal;
+    text-transform: uppercase;
+    background: #3b9ac6;
+    margin-bottom: 15px;
+}
+
+.topic{
+    background: #f4f4f4;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #ccc;
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: #666;
+}
+
+.actRule{
+    float: right;
+    padding-top: 19px;
+    color: #333;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+
+.body_wrapper{
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #8b8989;
+}
+
+.greyBox{
+    background: linear-gradient(#f3f3f3,#e1e1e1);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    
+}
+
+
+
+.whiteBox{
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+    
+}
+
+
+.boxText{
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 10px;
+    width: 55%;
+    display: inline-block;
+}
+
+.dropdown_align{
+    width: 25%;
+    float: right;
+    padding-right: 20px;
+}
+
+.dropdown{
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.emptyBox{
+    width: 94%;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
